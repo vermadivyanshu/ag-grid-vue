@@ -3,7 +3,7 @@ ag-Grid Vue Component
 
 This project contains the Vue Component for use with ag-Grid
 
-**This repository is now deprecated.** Please refer to the new mono-repo location here: https://github.com/ag-grid/ag-grid, with this specific Framework Project information here: [ag-grid-vue](https://github.com/ag-grid/ag-grid/blob/master/packages/ag-grid-vue/).
+**This repository is now deprecated.** Please refer to the new mono-repo location here: https://github.com/ag-grid/ag-grid, with this specific Framework Project living here: [ag-grid-vue](https://github.com/ag-grid/ag-grid/blob/master/packages/ag-grid-vue/).
 
 Version 18.0.0 will be the last version in this repository. All future versions will be in the repository above.
 
